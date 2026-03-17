@@ -1,0 +1,11 @@
+src/lib/core/revenue/
+│
+├── events/
+│   ├── createRevenueEvent.ts
+│   └── categorizeRevenue.ts
+│
+├── router/
+│   ├── allocationRules.ts
+│   └── distributeRevenue.ts
+│
+└── revenueEngine.ts
