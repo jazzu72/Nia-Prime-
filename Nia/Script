@@ -1,0 +1,5 @@
+brain = NiaBrain()
+
+brain.create_service("grant_scanner")
+brain.create_service("real_estate_radar")
+brain.create_service("deal_analyzer")
