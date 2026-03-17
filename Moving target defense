@@ -1,0 +1,10 @@
+class EndpointRotator:
+
+    def generate_endpoint(self):
+        token = secrets.token_hex(4)
+        return f"api-{token}.houseofjazzu.com"
+
+    def rotate(self):
+        new_endpoint = self.generate_endpoint()
+        print("New endpoint:", new_endpoint)
+        return new_endpoint
