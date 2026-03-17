@@ -1,0 +1,9 @@
+class SocialPublisher:
+
+    def post(self, platform, message):
+        print(f"Publishing to {platform}: {message}")
+        response = requests.post(
+            "https://api.socialplatform.com/post",
+            json={"message": message}
+        )
+        return response.status_code
