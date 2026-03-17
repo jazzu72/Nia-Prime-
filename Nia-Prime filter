@@ -1,0 +1,2 @@
+if deal["score"] > 80:
+    self.execute_strategy(deal)
