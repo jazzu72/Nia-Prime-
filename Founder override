@@ -1,0 +1,6 @@
+FOUNDER_KEY = "JAZZU_FOUNDER"
+
+def founder_override(key):
+    if key == FOUNDER_KEY:
+        return True
+    return False
