@@ -1,0 +1,17 @@
+nia-os/
+├── src/
+│   ├── lib/
+│   │   ├── core/
+│   │   │   ├── discovery/
+│   │   │   ├── graph/
+│   │   │   ├── intelligence/
+│   │   │   ├── kobe/
+│   │   │   ├── revenue/
+│   │   │   └── vault/
+│   │   ├── db/
+│   │   └── utils/
+│   └── routes/
+│       ├── api/
+│       ├── founder/
+│       └── client/
+└── drizzle/
