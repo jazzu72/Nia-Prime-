@@ -1,0 +1,8 @@
+"""
+Decision Models
+Implements reasoning structures used by NIA PRIME.
+"""
+
+class DecisionModels:
+    def evaluate(self, data):
+        return {"decision": "process", "data": data}
