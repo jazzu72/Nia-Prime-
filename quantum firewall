@@ -1,0 +1,11 @@
+class QuantumFirewall:
+
+    blocked_ips = []
+
+    def inspect(self, ip, request_count):
+
+        if request_count > 500:
+            self.blocked_ips.append(ip)
+            return "blocked"
+
+        return "allowed"
