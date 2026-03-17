@@ -1,0 +1,8 @@
+{
+  "opportunityId": "opp_123",
+  "score": 93,
+  "priority": "high",
+  "capital_potential": 250000,
+  "time_to_capital": "30-90 days",
+  "recommended_play": "grant_workflow"
+}
