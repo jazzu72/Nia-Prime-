@@ -1,0 +1,4 @@
+class ServiceMigration:
+
+    def relocate(self, service):
+        print(f"Relocating {service} to new node")
