@@ -1,0 +1,21 @@
+company/
+  house_of_jazzu/
+    services/
+      grants/
+        grant_scanner.py
+        eligibility_engine.py
+      real_estate/
+        real_estate_radar.py
+        market_growth_predictor.py
+      deals/
+        deal_analyzer.py
+        acquisition_scoring.py
+      intelligence/
+        scoring_engine.py
+        trend_alignment.py
+      workflows/
+        grant_workflow.py
+        acquisition_workflow.py
+      vault/
+        ledger_writer.py
+        revenue_router.py
