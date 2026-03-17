@@ -1,0 +1,8 @@
+class ThreatPredictor:
+
+    def analyze(self, traffic):
+
+        if traffic > 900:
+            return "High threat probability"
+
+        return "Normal"
