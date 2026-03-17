@@ -1,0 +1,1 @@
+self.builder.create_service("deal_analyzer", deal["service_code"])
