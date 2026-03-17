@@ -1,0 +1,14 @@
+src/lib/core/vault/
+│
+├── wallets/
+│   ├── founderWallet.ts
+│   ├── treasuryWallet.ts
+│   ├── trustWallet.ts
+│   └── growthWallet.ts
+│
+├── ledger/
+│   ├── createJournalEntry.ts
+│   ├── postLedgerLines.ts
+│   └── auditChain.ts
+│
+└── vaultEngine.ts
