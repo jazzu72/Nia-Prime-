@@ -1,0 +1,14 @@
+src/lib/core/discovery/
+│
+├── sources/
+│   ├── grants.ts
+│   ├── realEstate.ts
+│   ├── contracts.ts
+│   └── businessListings.ts
+│
+├── ingest/
+│   ├── normalize.ts
+│   ├── classify.ts
+│   └── enrich.ts
+│
+└── discoveryEngine.ts
