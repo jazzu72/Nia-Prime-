@@ -1,0 +1,39 @@
+house-of-jazzu/
+│
+├── core/
+│   ├── nia_prime/               # Executive intelligence engine
+│   ├── kano/                    # Autonomous security organ
+│   ├── founder/                 # Founder Master Key + governance rules
+│   └── strategic_memory/        # Immutable intelligence logs
+│
+├── intelligence/
+│   ├── opportunity_engine/
+│   ├── prediction_models/
+│   ├── scoring/
+│   └── radar/
+│
+├── security/
+│   ├── adaptive_gateway/
+│   ├── identity_layer/
+│   ├── quantum_security_core/
+│   ├── autonomous_defense/
+│   ├── rotating_mesh/
+│   └── decoy_network/
+│
+├── content/
+│   ├── brand_voice_engine/
+│   ├── content_generator/
+│   ├── social_publisher/
+│   └── engagement_analyzer/
+│
+├── revenue/
+│   ├── landing_pages/
+│   ├── lead_capture/
+│   ├── alerts/
+│   └── revenue_engine/
+│
+├── dashboards/
+│   ├── founder_dashboard/
+│   └── radar_map/
+│
+└── README.md
