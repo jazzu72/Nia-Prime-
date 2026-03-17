@@ -1,0 +1,3 @@
+class Grant_scannerService:
+    def run(self):
+        print("Service grant_scanner running")
