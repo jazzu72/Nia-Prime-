@@ -1,0 +1,4 @@
+class SecurityRepair:
+
+    def patch(self, vulnerability):
+        print("Applying security patch for:", vulnerability)
