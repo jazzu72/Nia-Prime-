@@ -1,0 +1,5 @@
+class DefenseEvolution:
+
+    def upgrade(self):
+
+        print("Generating new defensive pattern")
