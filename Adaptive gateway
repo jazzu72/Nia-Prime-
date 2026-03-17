@@ -1,0 +1,9 @@
+"""
+Adaptive Gateway
+First line of intelligent filtering for incoming traffic.
+"""
+
+class AdaptiveGateway:
+    def filter(self, request):
+        print("AdaptiveGateway: Filtering request.")
+        return request
