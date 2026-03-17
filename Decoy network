@@ -1,0 +1,5 @@
+class DecoyNetwork:
+
+    def redirect(self, attacker_ip):
+
+        print("Redirecting attacker to decoy environment")
