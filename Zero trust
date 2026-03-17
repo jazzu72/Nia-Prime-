@@ -1,0 +1,2 @@
+def generate_service_identity():
+    return secrets.token_urlsafe(48)
