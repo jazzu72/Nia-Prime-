@@ -1,0 +1,118 @@
+house-of-jazzu/
+│
+├── core/
+│   ├── nia_prime/
+│   │   ├── __init__.py
+│   │   ├── executive_loop.py
+│   │   ├── decision_models.py
+│   │   └── governance_interface.py
+│   │
+│   ├── kano/
+│   │   ├── __init__.py
+│   │   ├── adaptive_gateway.py
+│   │   ├── identity_layer.py
+│   │   ├── quantum_security_core.py
+│   │   ├── autonomous_defense_engine.py
+│   │   ├── endpoint_rotator.py
+│   │   ├── service_migration.py
+│   │   ├── threat_predictor.py
+│   │   ├── decoy_network.py
+│   │   └── defense_evolution.py
+│   │
+│   ├── founder/
+│   │   ├── __init__.py
+│   │   ├── founder_master_key.py
+│   │   └── governance_rules.py
+│   │
+│   └── strategic_memory/
+│       ├── __init__.py
+│       ├── memory_log.py
+│       ├── event_store.py
+│       └── intelligence_history.py
+│
+├── intelligence/
+│   ├── opportunity_engine/
+│   │   ├── __init__.py
+│   │   ├── opportunity_radar.py
+│   │   ├── opportunity_scoring.py
+│   │   ├── prediction_models.py
+│   │   └── regional_intelligence.py
+│   │
+│   ├── radar/
+│   │   ├── __init__.py
+│   │   ├── radar_map.py
+│   │   └── radar_clusters.py
+│   │
+│   └── scoring/
+│       ├── __init__.py
+│       └── score_formula.py
+│
+├── security/
+│   ├── adaptive_gateway/
+│   │   ├── __init__.py
+│   │   └── gateway_filters.py
+│   │
+│   ├── identity_layer/
+│   │   ├── __init__.py
+│   │   └── identity_tokens.py
+│   │
+│   ├── quantum_security_core/
+│   │   ├── __init__.py
+│   │   └── core_logic.py
+│   │
+│   ├── autonomous_defense/
+│   │   ├── __init__.py
+│   │   └── defense_controller.py
+│   │
+│   ├── rotating_mesh/
+│   │   ├── __init__.py
+│   │   └── mesh_manager.py
+│   │
+│   └── decoy_network/
+│       ├── __init__.py
+│       └── decoy_handler.py
+│
+├── content/
+│   ├── brand_voice_engine/
+│   │   ├── __init__.py
+│   │   └── voice_rules.py
+│   │
+│   ├── content_generator/
+│   │   ├── __init__.py
+│   │   └── generator.py
+│   │
+│   ├── social_publisher/
+│   │   ├── __init__.py
+│   │   └── publisher.py
+│   │
+│   └── engagement_analyzer/
+│       ├── __init__.py
+│       └── analyzer.py
+│
+├── revenue/
+│   ├── landing_pages/
+│   │   ├── __init__.py
+│   │   └── templates.py
+│   │
+│   ├── lead_capture/
+│   │   ├── __init__.py
+│   │   └── capture_engine.py
+│   │
+│   ├── alerts/
+│   │   ├── __init__.py
+│   │   └── real_time_alerts.py
+│   │
+│   └── revenue_engine/
+│       ├── __init__.py
+│       └── revenue_pipeline.py
+│
+├── dashboards/
+│   ├── founder_dashboard/
+│   │   ├── __init__.py
+│   │   └── dashboard_view.py
+│   │
+│   └── radar_map/
+│       ├── __init__.py
+│       └── radar_visualization.py
+│
+└── README.md
