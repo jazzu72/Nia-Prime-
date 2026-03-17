@@ -1,0 +1,15 @@
+src/lib/core/kobe/
+│
+├── actions/
+│   ├── generateApplication.ts
+│   ├── generateDealPackage.ts
+│   ├── investorOutreach.ts
+│   ├── submitGrant.ts
+│   └── followUp.ts
+│
+├── workflows/
+│   ├── grantWorkflow.ts
+│   ├── dealWorkflow.ts
+│   └── contractWorkflow.ts
+│
+└── kobeEngine.ts
