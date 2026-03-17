@@ -1,0 +1,17 @@
+src/lib/core/intelligence/
+│
+├── scoring/
+│   ├── financialScore.ts
+│   ├── eligibilityScore.ts
+│   ├── riskScore.ts
+│   └── compositeScore.ts
+│
+├── forecasting/
+│   ├── capitalPotential.ts
+│   ├── timeToCapital.ts
+│   └── successProbability.ts
+│
+├── ranking/
+│   └── priorityRanker.ts
+│
+└── intelligenceEngine.ts
