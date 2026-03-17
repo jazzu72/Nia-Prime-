@@ -1,0 +1,19 @@
+Luxury Market Data
+       │
+       ▼
+Product Intelligence Engine
+       │
+       ▼
+Authenticity Verification
+       │
+       ▼
+Price Opportunity Scanner
+       │
+       ▼
+Founder Approval
+       │
+       ▼
+Secure Purchase Execution  ← PurchaseAgent.buy() lives here
+       │
+       ▼
+Vault Asset Registry
