@@ -1,0 +1,14 @@
+{
+  "event": "DealExecuted",
+  "id": "uuid",
+  "timestamp": "ISO-8601",
+  "source": "Radar",
+  "region": "Virginia",
+  "category": "Watches",
+  "revenue": 600,
+  "cost": 1200,
+  "net": -600,
+  "metadata": {
+    "transaction_id": "external-id"
+  }
+}
