@@ -1,0 +1,11 @@
+{
+  "event": "RuleSetUpdated",
+  "id": "uuid",
+  "timestamp": "ISO-8601",
+  "version": "1.0.1",
+  "changes": {
+    "irs_percentage": "15%",
+    "founder_percentage": "20%"
+  },
+  "approved_by": "Founder"
+}
