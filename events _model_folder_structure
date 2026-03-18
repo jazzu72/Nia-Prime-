@@ -1,0 +1,16 @@
+events/
+  models/
+    OpportunityDetected.js
+    DealExecuted.js
+    InflowReceived.js
+    DistributionApplied.js
+    WalletUpdated.js
+    RuleSetUpdated.js
+  handlers/
+    radarHandler.js
+    vaultInflowHandler.js
+    distributionHandler.js
+    walletUpdateHandler.js
+    governanceHandler.js
+  bus/
+    eventBus.js
