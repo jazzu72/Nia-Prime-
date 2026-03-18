@@ -1,0 +1,9 @@
+{
+  "event": "DepositReceived",
+  "id": "uuid",
+  "timestamp": "ISO-8601",
+  "source": "External",
+  "amount": 500,
+  "currency": "USD",
+  "category": "FounderDeposit"
+}
