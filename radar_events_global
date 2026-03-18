@@ -1,0 +1,14 @@
+{
+  "event": "OpportunityDetected",
+  "id": "uuid",
+  "timestamp": "ISO-8601",
+  "source": "Radar",
+  "region": "Virginia",
+  "category": "Watches",
+  "score": 0.87,
+  "metadata": {
+    "price": 1200,
+    "estimated_value": 1800,
+    "seller_rating": 4.8
+  }
+}
