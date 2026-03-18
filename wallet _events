@@ -1,0 +1,9 @@
+{
+  "event": "WalletUpdated",
+  "id": "uuid",
+  "timestamp": "ISO-8601",
+  "wallet": "Founder",
+  "balance": 1200,
+  "currency": "USD",
+  "source": "DistributionApplied"
+}
