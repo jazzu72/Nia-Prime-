@@ -1,0 +1,39 @@
+import requests
+from datetime import datetime
+
+class LeadEnricher:
+
+    def enrich(self, lead):
+        enriched = lead.copy()
+
+        enriched["website"] = enriched.get("website") or self.find_website(lead["business_name"])
+        enriched["owner"] = self.find_owner(enriched["website"])
+        enriched["industry"] = self.classify_industry(enriched["website"])
+        enriched["location"] = enriched.get("location") or self.find_location(enriched["website"])
+        enriched["email"] = self.verify_email(lead["email"])
+        enriched["grants"] = self.match_grants(enriched)
+        enriched["outreach_angle"] = self.generate_angle(enriched)
+        enriched["enriched_at"] = datetime.utcnow().isoformat()
+
+        return enriched
+
+    def find_website(self, business_name):
+        return None  # placeholder for search logic
+
+    def find_owner(self, website):
+        return None  # placeholder for scraping logic
+
+    def classify_industry(self, website):
+        return None  # placeholder for classification logic
+
+    def find_location(self, website):
+        return None  # placeholder for address extraction
+
+    def verify_email(self, email):
+        return email  # placeholder for verification
+
+    def match_grants(self, lead):
+        return []  # placeholder for grant matching
+
+    def generate_angle(self, lead):
+        return f"We found funding opportunities for {lead['business_name']}."
