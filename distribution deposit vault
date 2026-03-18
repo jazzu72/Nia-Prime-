@@ -1,0 +1,16 @@
+{
+  "event": "DistributionApplied",
+  "id": "uuid",
+  "timestamp": "ISO-8601",
+  "source": "Vault",
+  "inflow_id": "uuid",
+  "total_amount": 600,
+  "breakdown": {
+    "irs": 90,
+    "founder": 120,
+    "bills": 180,
+    "growth": 120,
+    "opportunity": 90
+  },
+  "rules_version": "1.0.0"
+}
