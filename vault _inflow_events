@@ -1,0 +1,13 @@
+{
+  "event": "InflowReceived",
+  "id": "uuid",
+  "timestamp": "ISO-8601",
+  "source": "DealExecuted",
+  "amount": 600,
+  "currency": "USD",
+  "category": "RadarRevenue",
+  "metadata": {
+    "deal_id": "uuid",
+    "region": "Virginia"
+  }
+}
