@@ -1,0 +1,16 @@
+interfaces/pwa/
+  pages/
+    dashboard/
+      Dashboard.jsx
+      WalletCard.jsx
+      LedgerList.jsx
+      SummaryHeader.jsx
+  api/
+    vault.js
+  hooks/
+    useVaultData.js
+  components/
+    LoadingSpinner.jsx
+    ErrorState.jsx
+  styles/
+    dashboard.css
